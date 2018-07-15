@@ -1,11 +1,10 @@
 {
   "manifest_version": 2,
   "name": "notes.txt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Notes in text file.",
   "permissions": [
-    "storage",
-    "tabs"
+    "storage"
   ],
   "background": {
     "persistent": false,
