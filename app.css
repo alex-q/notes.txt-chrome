@@ -1,0 +1,17 @@
+.container {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  bottom: 1rem;
+  right: 1rem;
+}
+
+.text {
+  overflow: auto;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  font-size: 2em;
+  border: 2px solid darkgray;
+  padding: 0.5em;
+}

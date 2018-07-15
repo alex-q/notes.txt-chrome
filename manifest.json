@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "notes.txt",
+  "version": "0.1.0",
+  "description": "Notes in text file.",
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_action": {},
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
