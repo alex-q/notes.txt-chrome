@@ -36,3 +36,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# private key and packed extension
+*.pem
+*.crx
