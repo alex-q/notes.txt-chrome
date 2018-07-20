@@ -2,4 +2,6 @@
 
 Notes Chrome extension.
 
-Keeps notes in local storage.
+Keeps notes file in Google Drive.
+
+![Screenshot](screenshot.png)
